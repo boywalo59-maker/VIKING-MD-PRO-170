@@ -1,0 +1,19 @@
+{
+  "name": "viking-md-pro-170",
+  "version": "170.0.0",
+  "description": "VIKING MD PRO 170 Features - Telegram + WhatsApp - Locked @vikingnexus",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "pino": "^9.6.0",
+    "dotenv": "^16.6.0",
+    "axios": "^1.18.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
